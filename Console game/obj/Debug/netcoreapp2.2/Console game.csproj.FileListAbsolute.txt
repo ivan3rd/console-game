@@ -1,0 +1,11 @@
+C:\JSExp\Console game\bin\Debug\netcoreapp2.2\Console game.deps.json
+C:\JSExp\Console game\bin\Debug\netcoreapp2.2\Console game.runtimeconfig.json
+C:\JSExp\Console game\bin\Debug\netcoreapp2.2\Console game.runtimeconfig.dev.json
+C:\JSExp\Console game\bin\Debug\netcoreapp2.2\Console game.dll
+C:\JSExp\Console game\bin\Debug\netcoreapp2.2\Console game.pdb
+C:\JSExp\Console game\obj\Debug\netcoreapp2.2\Console game.csprojAssemblyReference.cache
+C:\JSExp\Console game\obj\Debug\netcoreapp2.2\Console game.csproj.CoreCompileInputs.cache
+C:\JSExp\Console game\obj\Debug\netcoreapp2.2\Console game.AssemblyInfoInputs.cache
+C:\JSExp\Console game\obj\Debug\netcoreapp2.2\Console game.AssemblyInfo.cs
+C:\JSExp\Console game\obj\Debug\netcoreapp2.2\Console game.dll
+C:\JSExp\Console game\obj\Debug\netcoreapp2.2\Console game.pdb
